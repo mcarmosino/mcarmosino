@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome! This repository will serve as a place to store my projects that I have worked on in classes at Vanderbilt and a resume
 
 <!--
 **mcarmosino/mcarmosino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
